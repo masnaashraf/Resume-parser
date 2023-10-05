@@ -34,9 +34,9 @@ The project is divided into four main steps:
 The project directory structure is organized as follows:
 
 -   Data_fetching/: Contains code for extracting resume data and job description data using PyPDF2 and the HuggingFace dataset library.
--   preprocessed_data/: Contains code for text preprocessing and tokenization of resumes and job descriptions.
--   word_embedding_data/: Contains code for generating word embeddings from preprocessed text data.
--   job_matching/: Contains the main script and modules for matching resumes with job descriptions.
+-   Data_preprocessing: Contains code for text preprocessing and tokenization of resumes and job descriptions.
+-   word_embeddings: Contains code for generating word embeddings from preprocessed text data.
+-   job_matcher: Contains the main script and modules for matching resumes with job descriptions.
 -   You can navigate to these directories to access the specific code related to different project stages. Each folder contains code files and modules to perform its respective task.
 
 # Results
