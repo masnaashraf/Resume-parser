@@ -1,7 +1,7 @@
 #   Overview
 
 
-![Resume Parser](Image URL)
+![Resume Parser](https://github.com/masnaashraf/Resume-parser/blob/main/resume-parsing-768x310.jpeg)
 
 
 The Resume Matcher is a Python-based project designed to match job descriptions with candidate resumes using natural language processing techniques. This tool aids in identifying the most suitable candidates for specific job roles by calculating the similarity between job descriptions and candidate resumes.
