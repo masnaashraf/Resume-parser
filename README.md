@@ -41,4 +41,4 @@ The project directory structure is organized as follows:
 
 # Results
 
-The matching results are stored in the output/ directory in JSON format. You can explore the top candidates for each job description based on similarity scores.
+The matching results are stored in the [output/ directory](https://github.com/masnaashraf/Resume-parser/blob/main/candidate_job_matching_results.json) in JSON format. You can explore the top candidates for each job description based on similarity scores.
